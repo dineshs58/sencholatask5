@@ -1,0 +1,99 @@
+
+.nav-item
+{
+    font-size: 1.2em;
+    margin-right: 10px;
+    text-transform: capitalize;
+} 
+.nav-link
+{
+    color:antiquewhite;
+}
+.fa-solid
+{
+    color:yellow;
+}
+.nav-link:hover
+{
+    color:red !important;
+}
+.coll-h1
+{
+    text-align: center;
+}
+.coll-col
+{
+    height:500px;
+    position: relative;
+    background-size: 100% 100%;
+    border-radius: 10px;
+}
+.coll-col>a>img
+{
+    width: 100%;
+    height: 100%;
+    
+}
+
+.collspan
+{
+    position: absolute;
+   
+    height: 5px;
+    
+}
+.cb-1
+{
+    position: absolute;
+   
+    height: 8px;
+    width: 94.8%;
+    top:96.8%;
+    left:3%;
+    background-color: green;
+}
+.cb-2
+{
+    position: absolute;
+   
+    height: 8px;
+    width: 94.3%;
+    top:98.5%;
+    left:3%;
+    background-color: red;
+    border-radius: 100px;
+}
+.cs-1
+{
+    width: 93%;
+    top:98%;
+    left:3%;
+    background-color: green;
+}
+.cs-2
+{
+    width:95% !important;
+    top:99%;
+    left:15px;
+    background-color: red;
+    border-radius: 90px;
+}
+.coll-col>h3
+{
+    position: absolute;
+    top:80%;
+    left:40%;
+    text-decoration: underline;
+    text-align: center;
+    color: aliceblue;
+    
+}
+.btn
+{
+    background: #000;
+    color:white;
+}
+.btn:hover
+{
+    color:red;
+}
